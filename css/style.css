@@ -138,7 +138,7 @@ body {
 }
 
 .about-me-container {
-    padding: 70px 90px 50px 90px;
+    padding: 50px 90px 50px 90px;
 }
 
 .about-me-title {
@@ -149,6 +149,10 @@ body {
 
 .about-me-main-info {
     margin-bottom: 65px;
+}
+
+.about-me-main-info > p > span {
+    font-weight: 700;
 }
 
 .my-profession {
@@ -246,7 +250,7 @@ body {
 
 .hobbies-container {
     margin-top: 55px;
-    margin-bottom: 55px;
+    margin-bottom: 10px;
 }
 
 .institution-name {
